@@ -1,11 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 
 <h1 align="center">Hi 👋, I'm Shourya Gupta</h1>
 <h3 align="center">A passionate final year computer science undergrad student from VIT India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourya0151&label=Profile%20views&color=0e75b6&style=flat" alt="shourya0151" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://twitter.com/shourya1501" target="blank"><img src="https://img.shields.io/twitter/follow/shourya1501?logo=twitter&style=for-the-badge" alt="shourya1501" /></a> </p>
 
 - 🔭 I’m currently working on [MERNBlogPage](https://github.com/shourya0151/MERNBlogPage)
@@ -24,6 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/shourya1501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shourya1501" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shourya-gupta-5a80941a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shourya-gupta-5a80941a0" height="30" width="40" /></a>
+<a href="https://instagram.com/shour_ya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shour_ya_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shourya_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shourya_15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shouryaguptag11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shouryaguptag11" height="30" width="40" /></a>
 </p>
 
