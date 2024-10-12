@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shouryaguptag11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y7aYfXHjqvVbDfaO05ZBQyGvjOUu33KR/view?usp=sharing](https://drive.google.com/file/d/1y7aYfXHjqvVbDfaO05ZBQyGvjOUu33KR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y7aYfXHjqvVbDfaO05ZBQyGvjOUu33KR/view?usp=sharing)
 
 - ⚡ Fun fact **Use MERN to control a drone fleet! MongoDB stores flight data, Node/Express handles commands, and React offers real-time tracking. Perfect for anything from delivery to aerial inspections!**
 
