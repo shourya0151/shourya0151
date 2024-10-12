@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shourya Gupta</h1>
 <h3 align="center">A passionate final year computer science undergrad student from VIT India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourya0151&label=Profile%20views&color=0e75b6&style=flat" alt="shourya0151" /> </p>
 
 
